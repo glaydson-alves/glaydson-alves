@@ -4,7 +4,7 @@
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/glaydson-alves-b15227199/)
 
 ![Glaydson GitHub stats](https://github-readme-stats.vercel.app/api?username=glaydson-alves&show_icons=true&theme=tokyonight)
-<img width="50%" height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glaydson-alves&layout=compact&hide_border=true&title_color=70a5fd&text_color=38bdae&bg_color=1a1b27" />
+<img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glaydson-alves&layout=compact&hide_border=true&title_color=70a5fd&text_color=38bdae&bg_color=1a1b27" />
 
 
 
