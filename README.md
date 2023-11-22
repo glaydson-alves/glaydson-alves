@@ -2,9 +2,9 @@
 ## Olá, Devs!! 👋
 ### O meu nome é Glaydson Alves, Seja bem-vindo ao meu perfil GitHub. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
-- 🔰  Sou de São Luís/MA, Brasil
+- 🔰 Sou de São Luís/MA, Brasil
 - ⚡ Apaixonado por Música e Tecnologia
-- 🧠 Estudante de Desenvolvimento de Software no Senai 
+- 🧠 Sou técnico em Desenvolvimento de Sistemas / Senai 
 - 🏦 Estou a procura de estágio na área de desenvolvimento Front-End.
 
 [![Blog](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5598996135227)
