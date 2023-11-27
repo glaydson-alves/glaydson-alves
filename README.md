@@ -1,8 +1,8 @@
 
-## Olá, Devs!! 👋
-### O meu nome é Glaydson Alves, Seja bem-vindo ao meu perfil GitHub. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
-
-- 🔰 Sou de São Luís/MA, Brasil
+## Olá, Devs!! 👋 <img src="https://user-images.githubusercontent.com/29931326/125177555-2e78db00-e1b3-11eb-9e49-409c4f649cf5.gif" width="30px"></a> <a href="https://github.com/glaydson-alves"><img href="https://github.com/glaydson-alves" src="https://komarev.com/ghpvc/?username=glaydson-alves&color=blueviolet" alt="Profile views"/></a>
+### O meu nome é Glaydson Alves, Seja bem-vindo ao meu perfil GitHub.
+<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/></a><img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
+- 🔰 Sou de São Luís - MA, Brasil
 - ⚡ Apaixonado por Música e Tecnologia
 - 🧠 Técnico em Desenvolvimento de Sistemas / Senai 
 - 🏦 Estou a procura de estágio na área de desenvolvimento Front-End.
@@ -10,6 +10,7 @@
 [![Blog](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5598996135227)
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/glaydson-alves-b15227199/)
 
+<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/></a>
 ##
 #### Estatísticas:
 
@@ -35,4 +36,6 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,py,bootstrap,firebase,mongodb,mysql," />
   </a>
 </p>
+
+<a href="https://github.com/adriwco"><img width=100% alt="" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&text=🧩&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=75"/></a>
 
