@@ -4,7 +4,7 @@
 
 - 🔰 Sou de São Luís/MA, Brasil
 - ⚡ Apaixonado por Música e Tecnologia
-- 🧠 Sou técnico em Desenvolvimento de Sistemas / Senai 
+- 🧠 Técnico em Desenvolvimento de Sistemas / Senai 
 - 🏦 Estou a procura de estágio na área de desenvolvimento Front-End.
 
 [![Blog](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5598996135227)
@@ -16,7 +16,6 @@
 <div align="start">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=glaydson-alves&show_icons=true&count_private=true&hide_border=true&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=1a1b27"" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glaydson-alves&layout=compact&hide_border=true&title_color=70a5fd&text_color=38bdae&bg_color=1a1b27" />
-  <img width=49%  height="195px" alt="GitHub Statistics" src="http://github-readme-streak-stats.herokuapp.com/?user=glaydson-alves&amp;theme=radical"/>
 </div>
 
 ##
