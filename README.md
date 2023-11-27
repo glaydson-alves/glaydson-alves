@@ -37,5 +37,5 @@
   </a>
 </p>
 
-<a href="https://github.com/adriwco"><img width=100% alt="" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&text=🧩&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=75"/></a>
+<a href="https://github.com/glaydson-alves"><img width=100% alt="" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&text=🧩&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=75"/></a>
 
