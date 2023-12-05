@@ -15,14 +15,14 @@
 ##
 #### Estatísticas:
 
-<div align="start">  
+<div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=glaydson-alves&show_icons=true&count_private=true&hide_border=true&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=1a1b27"" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glaydson-alves&layout=compact&hide_border=true&title_color=70a5fd&text_color=38bdae&bg_color=1a1b27" />
 </div>
 
 <br>
 
-<div align="start">
+<div align="center">
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=glaydson-alves&theme=tokyonight)](https://github.com/glaydson-alves/github-profile-trophy)
   
