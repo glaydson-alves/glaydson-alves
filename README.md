@@ -3,7 +3,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8c36db&size=30px&width=1000left=true&lines=O+meu+nome+%C3%A9+Glaydson+Alves.;Seja+bem-vindo+ao+meu+perfil+GitHub!)
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/></a><img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
-- 🗺️ Sou de São Luís - MA, Brasil
+- 🗺️ Sou de São Luís - MA, Brasil 🇧🇷
 - ⚡ Apaixonado por Música e Tecnologia
 - 💻 Técnico em Desenvolvimento de Sistemas / Senai 
 - 🔍 Estou a procura de estágio na área de desenvolvimento Front-End.
