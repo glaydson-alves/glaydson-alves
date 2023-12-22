@@ -46,7 +46,7 @@
 <p align="center">
   <a href="https://skillicons.dev" >
     <img src="https://skillicons.dev/icons?i=html,css,js,py,bootstrap,firebase,mongodb,mysql"/></a>
-    <img src="src/react.gif" alt="React GIF" width="48px" style="border-radius: 10px; margin-left: 4px;"/>
+    <img src="src/react.gif" alt="React GIF" width="50px" style="margin-left: 4px;"/>
 </p>
 <!-- <br>
 <div align="center", style="display: ">
