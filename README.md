@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=header"/>
 
-## Olá, Devs!! 👋 <img src="https://user-images.githubusercontent.com/29931326/125177555-2e78db00-e1b3-11eb-9e49-409c4f649cf5.gif" width="30px"></a> <a href="https://github.com/glaydson-alves"><img href="https://github.com/glaydson-alves" src="https://komarev.com/ghpvc/?username=glaydson-alves&color=blueviolet" alt="Profile views"/></a>
+## Olá!! 👋 <img src="https://user-images.githubusercontent.com/29931326/125177555-2e78db00-e1b3-11eb-9e49-409c4f649cf5.gif" width="30px"></a> <a href="https://github.com/glaydson-alves"><img href="https://github.com/glaydson-alves" src="https://komarev.com/ghpvc/?username=glaydson-alves&color=blueviolet" alt="Profile views"/></a>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8c36db&size=30px&width=1000left=true&lines=O+meu+nome+%C3%A9+Glaydson+Alves.;Seja+bem-vindo+ao+meu+perfil+GitHub!)
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/><img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
