@@ -7,7 +7,6 @@
 - 🗺️ Sou de São Luís - MA, Brasil 🇧🇷
 - ⚡ Apaixonado por Música e Tecnologia
 - 💻 Técnico em Desenvolvimento de Sistemas / Senai 
-- 🔍 Estou a procura de estágio na área de desenvolvimento Front-End.
 
 [![Blog](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5598996135227)
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/glaydson-alves-b15227199/)
