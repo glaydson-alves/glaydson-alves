@@ -3,9 +3,24 @@
 ## Olá!! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> <img src="https://user-images.githubusercontent.com/29931326/125177555-2e78db00-e1b3-11eb-9e49-409c4f649cf5.gif" width="30px"></a> <a href="https://github.com/glaydson-alves"><img href="https://github.com/glaydson-alves" src="https://komarev.com/ghpvc/?username=glaydson-alves&color=blueviolet" alt="Profile views"/></a>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8c36db&size=30px&width=1000left=true&lines=O+meu+nome+%C3%A9+Glaydson+Alves.;Seja+bem-vindo+ao+meu+perfil+GitHub!)
-<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/><img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
+<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
+<div style="position:relative;">
+  <img src="https://raw.githubusercontent.com/glaydson-alves/glaydson-alves/main/src/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right" style="position:absolute; animation: float 2s ease-in-out infinite;">
+  
+</div>
+<!-- <style>
+    @keyframes float {
+        0%, 100% {
+            transform: translateY(0);
+        }
+        50% {
+            transform: translateY(-50px);
+        }
+    }
+  </style> -->
+  
 - 🗺️ Sou de São Luís - MA, Brasil 🇧🇷
-- ⚡ Apaixonado por Música e Tecnologia
+- ⚡ Apaixonado por Música e Tecnologia 
 - 💻 Técnico em Desenvolvimento de Sistemas / Senai 
 
 [![Blog](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5598996135227)
