@@ -28,8 +28,18 @@
   <a href="https://skillicons.dev" >
     <img src="https://skillicons.dev/icons?i=html,css,js"/></a>
     <img src="src/react.gif" alt="React GIF" width="50px" style="margin-left: 4px;"/>
-    <img src="https://skillicons.dev/icons?i=nextjs,nodejs,express,py,bootstrap,tailwind,firebase,mongodb,mysql,postgres,java"/></a>
+    <img src="https://skillicons.dev/icons?i=nextjs,nodejs,express,py,bootstrap,tailwind,firebase,mongodb,mysql,postgres"/></a>
 </p>
+<div align="center", style="display: ">
+📚 <b>ESTUDANDO</b> 📚
+</div>
+<br>
+<p align="center">
+  <a href="https://skillicons.dev" >
+    <img src="https://skillicons.dev/icons?i=ts,angular,java"/></a>
+</p>
+
+
 
 ### Statistics:
 
