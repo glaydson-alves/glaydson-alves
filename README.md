@@ -36,7 +36,9 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev" >
-    <img src="https://skillicons.dev/icons?i=ts,angular,java"/></a>
+    <img src="https://skillicons.dev/icons?i=ts,angular"/></a>
+    <img src="src/ionic.png" alt="ionic" width="43px" style="margin-left: 4px;"/>
+    <img src="https://skillicons.dev/icons?i=java"/>
 </p>
 
 
