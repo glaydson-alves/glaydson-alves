@@ -11,7 +11,7 @@
 
 - 🗺️ Sou de São Luís - MA, Brasil 🇧🇷
 - ⚡ Apaixonado por Música e Tecnologia 
-- 💻 Técnico em Desenvolvimento de Sistemas / Senai 
+- 💻 Desenvolvimento de Sistemas
 
 [![Blog](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5598996135227)
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/glaydson-alves-b15227199/)
@@ -38,7 +38,7 @@
   <a href="https://skillicons.dev" >
     <img src="https://skillicons.dev/icons?i=ts,angular"/></a>
     <img src="src/ionic.png" alt="ionic" width="43px" style="margin-left: 4px;"/>
-    <img src="https://skillicons.dev/icons?i=java"/>
+<!--     <img src="https://skillicons.dev/icons?i=java"/> -->
 </p>
 
 
