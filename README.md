@@ -31,7 +31,7 @@
     <img src="https://skillicons.dev/icons?i=nextjs,nodejs,express,nest,py,bootstrap,tailwind,firebase,mongodb,mysql,postgres"/></a>
 </p>
 <div align="center", style="display: ">
-📚 <b>Atualmente trabalho com:</b> 📚
+🧑‍💻 <b>Atualmente trabalho com:</b> 🧑‍💻
 </div>
 <br>
 <p align="center">
