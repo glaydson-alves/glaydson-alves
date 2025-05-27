@@ -28,7 +28,7 @@
   <a href="https://skillicons.dev" >
     <img src="https://skillicons.dev/icons?i=html,css,js"/></a>
     <img src="src/react.gif" alt="React GIF" width="50px" style="margin-left: 4px;"/>
-    <img src="https://skillicons.dev/icons?i=nextjs,nodejs,express,py,bootstrap,tailwind,firebase,mongodb,mysql,postgres"/></a>
+    <img src="https://skillicons.dev/icons?i=nextjs,nodejs,express,nest,py,bootstrap,tailwind,firebase,mongodb,mysql,postgres"/></a>
 </p>
 <div align="center", style="display: ">
 📚 <b>Atualmente trabalho com:</b> 📚
@@ -36,7 +36,7 @@
 <br>
 <p align="center">
 <!--   <a href="https://skillicons.dev" > -->
-    <img src="https://skillicons.dev/icons?i=ts"/>
+    <img src="https://skillicons.dev/icons?i=js,ts"/>
     <img src="https://skills-icons.vercel.app/api/icons?i=angular,ionic"/>
 <!--   </a> -->
 <!--     <img src="src/ionic.png" alt="ionic" width="43px" style="margin-left: 4px;"/> -->
